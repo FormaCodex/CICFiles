@@ -1,4 +1,4 @@
-# Githubtest.github.io
+# githubtest.github.io
 
 #H1
 ##H2
